@@ -1,0 +1,33 @@
+{
+"suggest.enablePreselect": true,
+"suggest.noselect": false,
+"suggest.snippetIndicator": " °",
+"suggest.triggerAfterInsertEnter": true,
+"suggest.autoTrigger": "always",
+"suggest.floatEnable": false,
+"suggest.removeDuplicateItems": true,
+
+"coc.preferences.colorSupport": false,
+"coc.preferences.formatOnSaveFiletypes": [
+        "html",
+        "css",
+        "javascript"
+],
+"callHierarchy.splitCommand": "call BreakHabitsWindow()",
+
+"diagnostic.errorSign": "•",
+"diagnostic.warningSign": "!",
+"diagnostic.infoSign": "¶",
+"diagnostic.virtualText": true,
+
+"html-css-support.styleSheets": [
+        "css/style.css",
+        "style.css"
+],
+
+"snippets.userSnippetsDirectory": "~/.config/nvim/snippets",
+"snippets.ultisnips.enable": false,
+"snippets.ultisnips.usePythonx": false,
+
+}
+
